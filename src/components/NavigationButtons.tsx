@@ -7,7 +7,7 @@ type NavigationButtonProps = {
 };
 
 function NavigationButtons({ activeButton, onButtonChange }: NavigationButtonProps) {
-  const buttons = ["General", "Education", "Experience", "Skills"];
+  const buttons = ["General", "Education", "Experience", "Skill"];
   return (
     <div>
       <ButtonGroup>
