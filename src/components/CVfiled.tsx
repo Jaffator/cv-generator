@@ -1,5 +1,3 @@
-import React, { useRef } from "react";
-import { useReactToPrint } from "react-to-print";
 import type { EducationData, SkillData, ExperiencenData, GeneralData } from "./CardRender";
 import { BriefcaseBusiness, HandCoins, GraduationCap } from "lucide-react";
 
